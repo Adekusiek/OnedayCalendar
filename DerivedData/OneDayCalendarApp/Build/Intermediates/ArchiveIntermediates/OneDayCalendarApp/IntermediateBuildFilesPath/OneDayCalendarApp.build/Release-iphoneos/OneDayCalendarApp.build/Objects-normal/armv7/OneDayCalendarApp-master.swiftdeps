@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0a57bd6b4af50b92e5c2a6b56f72ce42"
+build_time: [540800387, 942324000]
+inputs:
+  "/Users/kawaharakeisuke/Desktop/OneDayCalendarApp/OneDayCalendarApp/_SettingTableViewController.swift": [9223372036854775807, 0]
+  "/Users/kawaharakeisuke/Desktop/OneDayCalendarApp/OneDayCalendarApp/MySentenceData.swift": [9223372036854775807, 0]
+  "/Users/kawaharakeisuke/Desktop/OneDayCalendarApp/OneDayCalendarApp/MyTableViewController.swift": [9223372036854775807, 0]
+  "/Users/kawaharakeisuke/Desktop/OneDayCalendarApp/OneDayCalendarApp/LikedTableViewCell.swift": [9223372036854775807, 0]
+  "/Users/kawaharakeisuke/Desktop/OneDayCalendarApp/OneDayCalendarApp/TableViewController.swift": [9223372036854775807, 0]
+  "/Users/kawaharakeisuke/Desktop/OneDayCalendarApp/OneDayCalendarApp/SettingViewController.swift": [9223372036854775807, 0]
+  "/Users/kawaharakeisuke/Desktop/OneDayCalendarApp/OneDayCalendarApp/AppDelegate.swift": [9223372036854775807, 0]
+  "/Users/kawaharakeisuke/Desktop/OneDayCalendarApp/OneDayCalendarApp/DataViewController.swift": [9223372036854775807, 0]
+  "/Users/kawaharakeisuke/Desktop/OneDayCalendarApp/OneDayCalendarApp/FirstViewController.swift": [9223372036854775807, 0]

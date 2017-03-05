@@ -1,0 +1,412 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SettingViewController"
+provides-nominal:
+- "C17OneDayCalendarApp21SettingViewController"
+provides-member:
+- ["C17OneDayCalendarApp21SettingViewController", ""]
+provides-dynamic-lookup:
+- "tapInitialButton"
+- "viewDidLoad"
+- "didReceiveMemoryWarning"
+depends-top-level:
+- "SettingViewController"
+- !private "UIAlertControllerStyle"
+- !private "UIAlertController"
+- !private "StringLiteralType"
+- !private "UserDefaults"
+- "BooleanLiteralType"
+- !private "UIAlertAction"
+- "UIViewController"
+- !private "UIAlertActionStyle"
+depends-member:
+- !private ["Ps9AnyObject", "UIAlertAction"]
+- !private ["Ps9AnyObject", "UIAlertActionStyle"]
+- !private ["Ps9AnyObject", "UIAlertController"]
+- !private ["Ps9AnyObject", "UIAlertControllerStyle"]
+- !private ["Ps9AnyObject", "UserDefaults"]
+- !private ["Ps9AnyObject", "addAction"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "present"]
+- !private ["Ps9AnyObject", "set"]
+- !private ["Ps9AnyObject", "standard"]
+- !private ["Ps9AnyObject", "synchronize"]
+- ["Ps9AnyObject", "tapInitialButton"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "UIAlertAction"]
+- !private ["Ps7CVarArg", "UIAlertActionStyle"]
+- !private ["Ps7CVarArg", "UIAlertController"]
+- !private ["Ps7CVarArg", "UIAlertControllerStyle"]
+- !private ["Ps7CVarArg", "UserDefaults"]
+- !private ["Ps7CVarArg", "addAction"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "present"]
+- !private ["Ps7CVarArg", "set"]
+- !private ["Ps7CVarArg", "standard"]
+- !private ["Ps7CVarArg", "synchronize"]
+- ["Ps7CVarArg", "tapInitialButton"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertAction"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertActionStyle"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertController"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertControllerStyle"]
+- !private ["Ps28CustomDebugStringConvertible", "UserDefaults"]
+- !private ["Ps28CustomDebugStringConvertible", "addAction"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "present"]
+- !private ["Ps28CustomDebugStringConvertible", "set"]
+- !private ["Ps28CustomDebugStringConvertible", "standard"]
+- !private ["Ps28CustomDebugStringConvertible", "synchronize"]
+- ["Ps28CustomDebugStringConvertible", "tapInitialButton"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "UIAlertAction"]
+- !private ["Ps23CustomStringConvertible", "UIAlertActionStyle"]
+- !private ["Ps23CustomStringConvertible", "UIAlertController"]
+- !private ["Ps23CustomStringConvertible", "UIAlertControllerStyle"]
+- !private ["Ps23CustomStringConvertible", "UserDefaults"]
+- !private ["Ps23CustomStringConvertible", "addAction"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "present"]
+- !private ["Ps23CustomStringConvertible", "set"]
+- !private ["Ps23CustomStringConvertible", "standard"]
+- !private ["Ps23CustomStringConvertible", "synchronize"]
+- ["Ps23CustomStringConvertible", "tapInitialButton"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "UIAlertAction"]
+- !private ["Ps9Equatable", "UIAlertActionStyle"]
+- !private ["Ps9Equatable", "UIAlertController"]
+- !private ["Ps9Equatable", "UIAlertControllerStyle"]
+- !private ["Ps9Equatable", "UserDefaults"]
+- !private ["Ps9Equatable", "addAction"]
+- !private ["Ps9Equatable", "alert"]
+- !private ["Ps9Equatable", "cancel"]
+- !private ["Ps9Equatable", "default"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "present"]
+- !private ["Ps9Equatable", "set"]
+- !private ["Ps9Equatable", "standard"]
+- !private ["Ps9Equatable", "synchronize"]
+- ["Ps9Equatable", "tapInitialButton"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Sf", "deinit"]
+- !private ["Ps8Hashable", "UIAlertAction"]
+- !private ["Ps8Hashable", "UIAlertActionStyle"]
+- !private ["Ps8Hashable", "UIAlertController"]
+- !private ["Ps8Hashable", "UIAlertControllerStyle"]
+- !private ["Ps8Hashable", "UserDefaults"]
+- !private ["Ps8Hashable", "addAction"]
+- !private ["Ps8Hashable", "alert"]
+- !private ["Ps8Hashable", "cancel"]
+- !private ["Ps8Hashable", "default"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "present"]
+- !private ["Ps8Hashable", "set"]
+- !private ["Ps8Hashable", "standard"]
+- !private ["Ps8Hashable", "synchronize"]
+- ["Ps8Hashable", "tapInitialButton"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "UIAlertAction"]
+- !private ["PSo8NSCoding", "UIAlertActionStyle"]
+- !private ["PSo8NSCoding", "UIAlertController"]
+- !private ["PSo8NSCoding", "UIAlertControllerStyle"]
+- !private ["PSo8NSCoding", "UserDefaults"]
+- !private ["PSo8NSCoding", "addAction"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "present"]
+- ["PSo8NSCoding", "tapInitialButton"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertAction"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertActionStyle"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertController"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertControllerStyle"]
+- !private ["PSo26NSExtensionRequestHandling", "UserDefaults"]
+- !private ["PSo26NSExtensionRequestHandling", "addAction"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "present"]
+- ["PSo26NSExtensionRequestHandling", "tapInitialButton"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "UIAlertAction"]
+- !private ["CSo8NSObject", "UIAlertActionStyle"]
+- !private ["CSo8NSObject", "UIAlertController"]
+- !private ["CSo8NSObject", "UIAlertControllerStyle"]
+- !private ["CSo8NSObject", "UserDefaults"]
+- !private ["CSo8NSObject", "addAction"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "present"]
+- !private ["CSo8NSObject", "set"]
+- !private ["CSo8NSObject", "standard"]
+- !private ["CSo8NSObject", "synchronize"]
+- ["CSo8NSObject", "tapInitialButton"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "UIAlertAction"]
+- !private ["PSo16NSObjectProtocol", "UIAlertActionStyle"]
+- !private ["PSo16NSObjectProtocol", "UIAlertController"]
+- !private ["PSo16NSObjectProtocol", "UIAlertControllerStyle"]
+- !private ["PSo16NSObjectProtocol", "UserDefaults"]
+- !private ["PSo16NSObjectProtocol", "addAction"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "present"]
+- !private ["PSo16NSObjectProtocol", "set"]
+- !private ["PSo16NSObjectProtocol", "standard"]
+- !private ["PSo16NSObjectProtocol", "synchronize"]
+- ["PSo16NSObjectProtocol", "tapInitialButton"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "alert"]
+- !private ["Ps16RawRepresentable", "cancel"]
+- !private ["Ps16RawRepresentable", "default"]
+- !private ["C17OneDayCalendarApp21SettingViewController", "UIAlertAction"]
+- !private ["C17OneDayCalendarApp21SettingViewController", "UIAlertActionStyle"]
+- !private ["C17OneDayCalendarApp21SettingViewController", "UIAlertController"]
+- !private ["C17OneDayCalendarApp21SettingViewController", "UIAlertControllerStyle"]
+- !private ["C17OneDayCalendarApp21SettingViewController", "UserDefaults"]
+- ["C17OneDayCalendarApp21SettingViewController", "deinit"]
+- ["C17OneDayCalendarApp21SettingViewController", "didReceiveMemoryWarning"]
+- ["C17OneDayCalendarApp21SettingViewController", "init"]
+- !private ["C17OneDayCalendarApp21SettingViewController", "present"]
+- ["C17OneDayCalendarApp21SettingViewController", "tapInitialButton"]
+- ["C17OneDayCalendarApp21SettingViewController", "viewDidLoad"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["CSo13UIAlertAction", "deinit"]
+- !private ["CSo13UIAlertAction", "init"]
+- !private ["OSC18UIAlertActionStyle", "cancel"]
+- !private ["OSC18UIAlertActionStyle", "default"]
+- ["OSC18UIAlertActionStyle", "deinit"]
+- !private ["CSo17UIAlertController", "addAction"]
+- ["CSo17UIAlertController", "deinit"]
+- !private ["CSo17UIAlertController", "init"]
+- !private ["OSC22UIAlertControllerStyle", "alert"]
+- ["OSC22UIAlertControllerStyle", "deinit"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertAction"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertActionStyle"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertController"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertControllerStyle"]
+- !private ["PSo21UIAppearanceContainer", "UserDefaults"]
+- !private ["PSo21UIAppearanceContainer", "addAction"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "present"]
+- ["PSo21UIAppearanceContainer", "tapInitialButton"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "UIAlertAction"]
+- !private ["PSo18UIContentContainer", "UIAlertActionStyle"]
+- !private ["PSo18UIContentContainer", "UIAlertController"]
+- !private ["PSo18UIContentContainer", "UIAlertControllerStyle"]
+- !private ["PSo18UIContentContainer", "UserDefaults"]
+- !private ["PSo18UIContentContainer", "addAction"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "present"]
+- ["PSo18UIContentContainer", "tapInitialButton"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo18UIFocusEnvironment", "UIAlertAction"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertActionStyle"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertController"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertControllerStyle"]
+- !private ["PSo18UIFocusEnvironment", "UserDefaults"]
+- !private ["PSo18UIFocusEnvironment", "addAction"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "present"]
+- ["PSo18UIFocusEnvironment", "tapInitialButton"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIResponder", "UIAlertAction"]
+- !private ["CSo11UIResponder", "UIAlertActionStyle"]
+- !private ["CSo11UIResponder", "UIAlertController"]
+- !private ["CSo11UIResponder", "UIAlertControllerStyle"]
+- !private ["CSo11UIResponder", "UserDefaults"]
+- !private ["CSo11UIResponder", "addAction"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "present"]
+- ["CSo11UIResponder", "tapInitialButton"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertAction"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertActionStyle"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertController"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertControllerStyle"]
+- !private ["PSo30UIResponderStandardEditActions", "UserDefaults"]
+- !private ["PSo30UIResponderStandardEditActions", "addAction"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "present"]
+- ["PSo30UIResponderStandardEditActions", "tapInitialButton"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "UIAlertAction"]
+- !private ["PSo16UIStateRestoring", "UIAlertActionStyle"]
+- !private ["PSo16UIStateRestoring", "UIAlertController"]
+- !private ["PSo16UIStateRestoring", "UIAlertControllerStyle"]
+- !private ["PSo16UIStateRestoring", "UserDefaults"]
+- !private ["PSo16UIStateRestoring", "addAction"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "present"]
+- ["PSo16UIStateRestoring", "tapInitialButton"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "UIAlertAction"]
+- !private ["PSo18UITraitEnvironment", "UIAlertActionStyle"]
+- !private ["PSo18UITraitEnvironment", "UIAlertController"]
+- !private ["PSo18UITraitEnvironment", "UIAlertControllerStyle"]
+- !private ["PSo18UITraitEnvironment", "UserDefaults"]
+- !private ["PSo18UITraitEnvironment", "addAction"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "present"]
+- ["PSo18UITraitEnvironment", "tapInitialButton"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo16UIViewController", "UIAlertAction"]
+- !private ["CSo16UIViewController", "UIAlertActionStyle"]
+- !private ["CSo16UIViewController", "UIAlertController"]
+- !private ["CSo16UIViewController", "UIAlertControllerStyle"]
+- !private ["CSo16UIViewController", "UserDefaults"]
+- !private ["CSo16UIViewController", "addAction"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "present"]
+- ["CSo16UIViewController", "tapInitialButton"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["V10Foundation3URL", "deinit"]
+- !private ["CSo12UserDefaults", "deinit"]
+- !private ["CSo12UserDefaults", "set"]
+- !private ["CSo12UserDefaults", "standard"]
+- !private ["CSo12UserDefaults", "synchronize"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "UIAlertAction"]
+- !private ["Ps9_Hashable", "UIAlertActionStyle"]
+- !private ["Ps9_Hashable", "UIAlertController"]
+- !private ["Ps9_Hashable", "UIAlertControllerStyle"]
+- !private ["Ps9_Hashable", "UserDefaults"]
+- !private ["Ps9_Hashable", "addAction"]
+- !private ["Ps9_Hashable", "alert"]
+- !private ["Ps9_Hashable", "cancel"]
+- !private ["Ps9_Hashable", "default"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "present"]
+- !private ["Ps9_Hashable", "set"]
+- !private ["Ps9_Hashable", "standard"]
+- !private ["Ps9_Hashable", "synchronize"]
+- ["Ps9_Hashable", "tapInitialButton"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Sf"
+- "Ps8Hashable"
+- !private "Si"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- "C17OneDayCalendarApp21SettingViewController"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "CSo13UIAlertAction"
+- "OSC18UIAlertActionStyle"
+- "CSo17UIAlertController"
+- "OSC22UIAlertControllerStyle"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- !private "V10Foundation3URL"
+- !private "CSo12UserDefaults"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+interface-hash: "83087f1487ac76e0ae81d27bb52c0c55"
